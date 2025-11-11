@@ -1,0 +1,44 @@
+{
+  "bvn_records": [
+    {
+      "bvn": "12345678901",
+      "registered_name": "JOHN DOE",
+      "first_name": "John",
+      "last_name": "Doe",
+      "phone": "08012345678",
+      "email": "john.doe@email.com"
+    },
+    {
+      "bvn": "98765432109",
+      "registered_name": "JANE SMITH",
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "phone": "08098765432",
+      "email": "jane.smith@email.com"
+    },
+    {
+      "bvn": "11122334455",
+      "registered_name": "CHUKWUMA OKORO",
+      "first_name": "Chukwuma",
+      "last_name": "Okoro",
+      "phone": "08011122334",
+      "email": "c.okoro@email.com"
+    },
+    {
+      "bvn": "55566677788",
+      "registered_name": "MUSA ABDULLAHI",
+      "first_name": "Musa",
+      "last_name": "Abdullahi",
+      "phone": "08055566677",
+      "email": "musa.abdullahi@email.com"
+    },
+    {
+      "bvn": "99988877766",
+      "registered_name": "FUNKE ADEBAYO",
+      "first_name": "Funke",
+      "last_name": "Adebayo",
+      "phone": "08099988877",
+      "email": "funke.adebayo@email.com"
+    }
+  ]
+}
